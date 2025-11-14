@@ -1,1 +1,1 @@
-token='8218184283:AAFD_VqGCnE9alw82O_rl4RGsbXXczt5rRg'
+token='your_token_is_here'
